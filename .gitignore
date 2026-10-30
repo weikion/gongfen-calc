@@ -1,0 +1,18 @@
+# 运行产物（含真实业务数据，切勿提交）
+out/
+tests/out/
+*.gongfen.xlsx
+*.gongfen.json
+*.gongfen.md
+baseline.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 系统
+.DS_Store
+Thumbs.db
